@@ -11,7 +11,7 @@ Medellín, Colombia 🇨🇴
 &nbsp;
 
 <p align="left">
-  <img src="./images/img_ascii.png" width="58%" align="left" style="margin-right: 25px; margin-bottom: 10px;" />
+  <img src="./images/img_ascii.png" width="57%" align="left" style="margin-right: 25px; margin-bottom: 10px;" />
 </p>
 
 ### 🚀 About Me
