@@ -1,5 +1,5 @@
 <!--### Hi there -->
-## 👋 Hi, I'm Melissa Cadavid, a Software Developer 🚀 from Colombia.
+## 👋 Hi, I'm Melissa Cadavid — Senior Systems Engineer & Full Stack / Frontend Developer (+16 years of experience) 🚀 from Colombia.
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mcada01) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-cadavid-845a4033/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mcada0183@gmail.com) [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mcada01@hotmail.com) [![Yahoo](https://img.shields.io/badge/-Yahoo-0078D4?style=flat&logo=Yahoo&logoColor=white)](mailto:mcada01@yahoo.com.mx)
 
 &nbsp;
@@ -39,7 +39,7 @@
 ## 
 
 &nbsp;
-
+<!--
 <p align="center">
   <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=mcada01&show_icons=true&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcada01&layout=compact" />
@@ -51,7 +51,7 @@
 
 
 
-<!--
+
 **mcada01/mcada01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
