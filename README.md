@@ -13,7 +13,7 @@ Medellín, Colombia 🇨🇴
 <p align="center">
   <img width="45%" align="left" src="./images/img_ascii.png" style="margin-right: 20px;">
 
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   
   ### 🚀 About Me
   Senior Systems Engineer with over 16 years of experience building scalable web applications. Specialized in Full Stack and Frontend development (React, Angular, Node.js, TypeScript). Proven track record in project estimation, optimizing delivery times, establishing software quality standards, and end-to-end web deployment.
