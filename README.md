@@ -10,12 +10,9 @@ Medellín, Colombia 🇨🇴
 
 &nbsp;
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none; background: transparent;">
-  <tr style="border: none;">
-    <td width="55%" align="center" valign="middle" style="border: none; border-style: none;">
-      <img src="./images/img_ascii.png" width="100%" alt="Melissa Cadavid ASCII" style="border: none;">
-    </td>
-    <td width="45%" valign="middle" style="border: none; border-style: none; padding-left: 20px;">
+<p align="left">
+  <img src="./images/img_ascii.png" width="58%" align="left" style="margin-right: 25px; margin-bottom: 10px;" />
+</p>
 
 ### 🚀 About Me
 Senior Systems Engineer with over 16 years of experience building scalable web applications. Specialized in Full Stack and Frontend development (React, Angular, Node.js, TypeScript). Proven track record in project estimation, optimizing delivery times, establishing software quality standards, and end-to-end web deployment.
@@ -25,9 +22,7 @@ Senior Systems Engineer with over 16 years of experience building scalable web a
 - 💬 **Ask me about:** JavaScript, TypeScript, React, Angular, Node.js & Web Development
 - 📫 **Contact:** mcada01@yahoo.com.mx | [LinkedIn Profile](https://www.linkedin.com/in/melissa-cadavid-pel%C3%A1ez-845a4033/)
 
-    </td>
-  </tr>
-</table>
+<br clear="left"/>
 
 &nbsp;
 
