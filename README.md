@@ -10,20 +10,24 @@ Medellín, Colombia 🇨🇴
 
 &nbsp;
 
-<p align="center">
-  <img width="45%" align="left" src="./images/img_ascii.png" style="margin-right: 20px;">
+<table style="border: none;">
+  <tr>
+    <td width="58%" align="center" valign="center">
+      <img src="./images/img_ascii.png" width="100%" alt="Melissa Cadavid ASCII">
+    </td>
+    <td width="42%" valign="center">
 
-  &nbsp;
-  
-  ### 🚀 About Me
-  Senior Systems Engineer with over 16 years of experience building scalable web applications. Specialized in Full Stack and Frontend development (React, Angular, Node.js, TypeScript). Proven track record in project estimation, optimizing delivery times, establishing software quality standards, and end-to-end web deployment.
-  
-  - 🔭 **Focus:** Frontend Architecture, UI/UX Implementation & Full Stack Web Solutions
-  - ⚡ **Strengths:** Project estimation accuracy, clean code practices, and deployment optimization
-  - 💬 **Ask me about:** JavaScript, TypeScript, React, Angular, Node.js & Web Development
-  - 📫 **Contact:** mcada01@yahoo.com.mx | [LinkedIn Profile](https://www.linkedin.com/in/melissa-cadavid-pel%C3%A1ez-845a4033/)
-    
-</p>
+### 🚀 About Me
+Senior Systems Engineer with over 16 years of experience building scalable web applications. Specialized in Full Stack and Frontend development (React, Angular, Node.js, TypeScript). Proven track record in project estimation, optimizing delivery times, establishing software quality standards, and end-to-end web deployment.
+
+* 🔭 **Focus:** Frontend Architecture, UI/UX Implementation & Full Stack Web Solutions
+* ⚡ **Strengths:** Project estimation accuracy, clean code practices, and deployment optimization
+* 💬 **Ask me about:** JavaScript, TypeScript, React, Angular, Node.js & Web Development
+* 📫 **Contact:** mcada01@yahoo.com.mx | [LinkedIn Profile](https://www.linkedin.com/in/melissa-cadavid-pel%C3%A1ez-845a4033/)
+
+    </td>
+  </tr>
+</table>
 
 &nbsp;
 
