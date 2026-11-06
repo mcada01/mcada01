@@ -1,71 +1,51 @@
 <!--### Hi there -->
-## 👋 Hi, I'm Melissa Cadavid — Senior Systems Engineer & Full Stack / Frontend Developer (+16 years of experience) 🚀 from Colombia.
+# Hi, I'm Melissa Cadavid Peláez 👋
+### Senior Systems Engineer | Full Stack & Frontend Developer (+16 years of experience)
+
+Medellín, Colombia 🇨🇴
+
+---
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mcada01) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-cadavid-845a4033/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mcada0183@gmail.com) [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:mcada01@hotmail.com) [![Yahoo](https://img.shields.io/badge/-Yahoo-0078D4?style=flat&logo=Yahoo&logoColor=white)](mailto:mcada01@yahoo.com.mx)
 
 &nbsp;
 
 <p align="center">
-  <img width="55%" align="left" src="https://github.com/mcada01/mcada01/blob/main/images/img_ascii.png">
+  <img width="45%" align="left" src="./images/img_ascii.png" style="margin-right: 20px;">
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <div>
-  <br />
-    <label>- ✨ I'm a systems engineer</label><br />
-    <label>- ✨ I work as full stack developer</label><br />
-    <label>- ✨ I like learning about programming languages</label><br />
-    <label>- ✨ My hobbies are coding and running</label><br />
-    <br />
-    <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  </div>
+  ### 🚀 About Me
+  Senior Systems Engineer with over 16 years of experience building scalable web applications. Specialized in Full Stack and Frontend development (React, Angular, Node.js, TypeScript). Proven track record in project estimation, optimizing delivery times, establishing software quality standards, and end-to-end web deployment.
   
+  - 🔭 **Focus:** Frontend Architecture, UI/UX Implementation & Full Stack Web Solutions
+  - ⚡ **Strengths:** Project estimation accuracy, clean code practices, and deployment optimization
+  - 💬 **Ask me about:** JavaScript, TypeScript, React, Angular, Node.js & Web Development
+  - 📫 **Contact:** mcada01@yahoo.com.mx | [LinkedIn Profile](https://www.linkedin.com/in/melissa-cadavid-pel%C3%A1ez-845a4033/)
+    
 </p>
 
 &nbsp;
 
-## 
+---
 
-&nbsp;
-<!--
-<p align="center">
-  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=mcada01&show_icons=true&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcada01&layout=compact" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mcada01" />
-</p>
+### 🛠️ Tech Stack & Tools
 
+**Frontend & Languages:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+**Backend & Databases:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**Tools & Version Control:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-
-
-
-**mcada01/mcada01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcada01&layout=compact)](https://github.com/mcada01/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcada01&show_icons=true&theme=tokyonight)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/melissa.pelaez/)
--->
